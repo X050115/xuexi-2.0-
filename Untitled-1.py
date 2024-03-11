@@ -22,6 +22,8 @@ print(name)
 yig=len(name)
 print(yig)
 name.clear()
+print('谢谢')
+
 
 
 
